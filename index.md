@@ -1,15 +1,11 @@
 ---
 layout: page
-title: Hello World!
+title: Kelmer Perez, Neutral Good, Level 1 Web Developer, Level 4 Nerd
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
+## Welcome to my web site!
 
 In `_config.yml` remember to specify your own data:
     
