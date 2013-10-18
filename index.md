@@ -46,6 +46,6 @@ The idea of this project was to create a Stack Overflow-ish website specifically
 ***
 ***
 ###[Princess Flashcards](https://github.com/kelmerp/web-flashcards)
-Fun, flashcard Sinatra app project.  Bright pinks and pastels.  We had fun with this one.  
+Fun, flashcard Sinatra app project.  Bright pinks and pastels.  We had a blast with this one.  
 
 <img src="assets/princess-flashcards.png">
