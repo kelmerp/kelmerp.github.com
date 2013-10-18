@@ -37,7 +37,7 @@ This was my final project at Dev Bootcamp and had 3 main components to it: scrap
 ***
 
 ###[AskDeebs](http://askdeebs.herokuapp.com/)
-The idea of this project was to create a Stack Overflow-ish website specifically for Dev Bootcamp students and staff.  Every day students toil away searching the internet for the best answer to a question, or an instructor or other staff member sends out an email with a link to a good bit of knowledge, but that knowledge is not aggregated for the good of all at Dev Bootcamp.  This project was an attempt to fix that problem.  Our team used Dev Bootcamp's authentication existing Oauth, and allows for up-voting and down-voting best responses to questions.  Anyone can browese, but only Oauth authenticated users can actually post questions or answers.
+The idea of this project was to create a Stack Overflow-ish website specifically for Dev Bootcamp students and staff.  Every day students toil away searching the internet for the best answer to a question, or an instructor or other staff member sends out an email with a link to a good bit of knowledge, but that knowledge is not aggregated for the good of all at Dev Bootcamp.  This project was an attempt to fix that problem.  Our team used Dev Bootcamp's authentication existing Oauth, and allows for up-voting and down-voting best responses to questions.  Anyone can browse, but only Oauth authenticated users can actually post questions or answers.
 
 <img src="assets/ask-deebs-home.png">
 <img src="assets/ask-deebs-question.png">
